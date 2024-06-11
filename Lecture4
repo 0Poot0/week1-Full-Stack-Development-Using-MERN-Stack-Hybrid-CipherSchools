@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page Title</title>
+</head>
+<body>
+    <h1>My First Heading</h1>
+    <h2>My Second Heading</h2>
+    <h3>My Third Heading</h3>
+    <h4>My Fourth Heading</h4>
+    <h5>My Fifth Heading</h5>
+    <h6>My Sixth Heading</h6>
+    
+    <p>This is my paragraph.</p>
+    <p>This is another paragraph.</p>
+
+    <a href="https://cipherschools.com">Go to cipherschools..</a>
+    <img src="https://t4.ftcdn.net/jpg/04/88/71/05/360_F_488710566_04tsm0UWBwepU3xBEdzOwvgI7wrBsgpN.jpg" alt="Flowers">
+    <button>Click me.</button>
+    <br>
+    <blockquote>Cipherschools is amazing..</blockquote><br>
+    <q>Cipherschools is amazing.</q><br>
+    <blockquote cite="https://en.wikipedia.org/wiki/Harry_Potter_(film_series)">
+        Harry Potter is a film series based on the eponymous novels by British author J. K. Rowling. The series is produced and distributed by Warner Bros. Pictures and consists of eight fantasy films, beginning with Harry Potter and the Philosopher's Stone (2001) and culminating with Harry Potter and the Deathly Hallows – Part 2 (2011).[2][3] A spin-off prequel series started with Fantastic Beasts and Where to Find Them (2016), marking the beginning of the Wizarding World shared media franchise
+    </blockquote>
+    <hr>
+    <p>
+        <abbr title="World Health Organization">WHO</abbr> is a good organization.
+    </p>
+    <p>
+        <address>
+            I am Antara.<br>
+            Visit me on LinkedIn:<br>
+        </address>
+    </p>
+
+    <hr>
+<div>
+    <h5>Unordered List.</h5>
+    <ul>
+        <li>Coffee</li>
+        <li>Milk</li>
+        <li>Tea</li>
+    </ul>
+</div>
+    <hr>
+<div>
+    <h5>Ordered List.</h5>
+    <ol>
+        <li>Coffee</li>
+        <li>Milk</li>
+        <li>Tea</li>
+    </ol>
+</div>
+    <hr>
+<div>
+    <h5>Description List.</h5>
+    <dl>
+        <dt><b><u>Coffee</u></b></dt>
+        <dd><i><span style="color:brown">--This is a brown drink--</span></i></dd>
+        <dt><b><u>Milk</u></b></dt>
+        <dd><i><span style="color:antiquewhite">--This is a white drink--</span></i></dd>
+        <dt><b><u>Tea</u></b></dt>
+        <dd><i><span style="color:red">--This is a bad drink--</span></i></dd>
+    </dl>
+    </div>
+
+</body>
+</html>
